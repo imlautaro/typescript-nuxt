@@ -21,11 +21,10 @@ A basic and clean nuxt and typescript template to start a project.
 
 ## Generate static website
 
-To generate a static website you have to add a couple of lines to the nuxt configuration file:
+To generate a static website you have to add the following line to the nuxt configuration file:
 
 ```javascript
 export default {
-	ssr: false,
 	target: 'static',
 	// { ... }
 };
