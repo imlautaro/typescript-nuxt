@@ -1,0 +1,16 @@
+{
+	"name": "basic-nuxt",
+	"version": "1.0.0",
+	"scripts": {
+		"dev": "nuxt",
+		"generate": "nuxt generate",
+		"build": "nuxt build",
+		"start": "nuxt start"
+	},
+	"repository": "https://github.com/imlautaro/basic-nuxt.git",
+	"author": "Lautaro Pereyra <dev.lautaropereyra@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"nuxt": "^2.14.7"
+	}
+}
