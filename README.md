@@ -1,6 +1,6 @@
-# Basic Nuxt Template
+# Typescript Nuxt Template
 
-A basic and clean nuxt template to start a project.
+A basic and clean nuxt and typescript template to start a project.
 
 ## Requirements
 
